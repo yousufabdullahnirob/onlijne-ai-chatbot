@@ -1,0 +1,7 @@
+{
+  "name": "Own chatbot",
+  "description": "An all-in-one AI chatbot showcasing the diverse capabilities of the Gemini API, including text chat, image analysis, image and video generation, web-grounded search, and real-time voice conversations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
